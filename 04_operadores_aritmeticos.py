@@ -1,5 +1,5 @@
 #########################################
-##Operadores Logicos
+##Operadores
 
 #Suma
 suma = 3 + 4
