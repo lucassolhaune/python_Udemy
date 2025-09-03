@@ -8,7 +8,6 @@ if(num % 2 == 0): # Si el resto de la division me da 0 es PAR, sino NO.
 else:
     print("El numero es impar")
 
-    
 
 ##Validar el signo de un numero
 x = int(input("Ingrese el un numero: "))
