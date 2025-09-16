@@ -25,8 +25,13 @@ t2 = (4, 5, 6)
 
 t3 = t1 + t2
 
-print(t3) #(1, 2, 3, 4, 5, 6)
+print(t3) # (1, 2, 3, 4, 5, 6) concatena o suma la tupla
 
-print(3 * t1)
+print(3 * t1) # (1, 2, 3, 1, 2, 3, 1, 2, 3) me multiplica la tupla por 3
 
-print(7 in t1) #False
+print(7 in t1) # corrobora si 7 esta en la tupla ---> False
+
+for color in colores:
+    print(color) # rojo, verde, azul
+
+print (t1 [1:3]) # (2, 3) te da un 
