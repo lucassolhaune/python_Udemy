@@ -35,3 +35,4 @@ for color in colores:
     print(color) # rojo, verde, azul
 
 print (t1 [1:3]) # (2, 3) te da un 
+#
