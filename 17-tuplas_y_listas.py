@@ -31,8 +31,11 @@ print(3 * t1) # (1, 2, 3, 1, 2, 3, 1, 2, 3) me multiplica la tupla por 3
 
 print(7 in t1) # corrobora si 7 esta en la tupla ---> False
 
+print ("#######################")
+
 for color in colores:
     print(color) # rojo, verde, azul
+    
+print ("#######################")
 
 print (t1 [1:3]) # (2, 3) te da un 
-#
